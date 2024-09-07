@@ -1,4 +1,4 @@
-public class Main {
+public class M1 {
     public static void main(String[] args) {
         // 1.7 caffee break
         System.out.println(calculateScore("imperative") == 9);
